@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate software engineering student from Mexico.</h3>
+<h3 align="center">A passionate software developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Kotlin with jetpack compose to develop android apps**
 
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonfnts&show_icons=true&locale=en&layout=compact" alt="brandonfnts" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonfnts&show_icons=true&locale=en" alt="brandonfnts" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonfnts&" alt="brandonfnts" /></p>
