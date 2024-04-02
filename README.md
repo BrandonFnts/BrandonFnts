@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate software developer from Mexico</h3>
+<h3 align="center">A passionate software engineering student from Mexico.</h3>
 
 - 🌱 I’m currently learning **Kotlin with jetpack compose to develop android apps**
 
