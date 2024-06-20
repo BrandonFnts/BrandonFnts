@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (this github account)
 
-- 💬 Ask me about **vue, nodejs, java**
+- 💬 Ask me about **vue, nodejs, Kotlin**
 
 - 📫 How to reach me **brandonfuentes025@gmail.com**
 
