@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin with jetpack compose to develop android apps**
 
-- 👨‍💻 All of my projects are available at [this github account](this github account)
+- 👨‍💻 All of my projects are available at (this github account)
 
 - 💬 Ask me about **vue, nodejs, java**
 
