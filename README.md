@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Kotlin with jetpack compose to develop android apps**
+- 🌱 I’m currently learning a lot of things
 
-- 👨‍💻 All of my projects are available at (this github account)
+- 👨‍💻 All of my projects are available here but some of them are private
 
-- 💬 Ask me about **vue, nodejs, Kotlin**
+- 💬 Ask me about **nodejs, Kotlin, C# with .NET**
 
 - 📫 How to reach me **brandonfuentes025@gmail.com**
 
