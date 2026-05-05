@@ -1,7 +1,6 @@
 <div align="center">
-  
-  # 👋 Hola, soy Brandon Fuentes
-  ### 🚀 Software Developer | Web & Android | Full-Stack
+  <h1>👋 Hola, soy Brandon Fuentes</h1>
+  <h3>🚀 Software Developer | Web & Android | Full-Stack</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/brandon-fnts" target="_blank">
@@ -12,8 +11,7 @@
     </a>
   </p>
 
-  <i>Desarrollador Full-Stack apasionado por crear aplicaciones móviles nativas y soluciones web escalables. Especialista en la arquitectura de sistemas en tiempo real, arquitecturas limpias y servicios en la nube.</i>
-
+  <p><i>Desarrollador Full-Stack apasionado por crear aplicaciones móviles nativas y soluciones web escalables. Especialista en la arquitectura de sistemas en tiempo real, arquitecturas limpias y servicios en la nube.</i></p>
 </div>
 
 ---
@@ -25,6 +23,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <br/>
   
   <!-- Frontend Web & Movil -->
@@ -37,31 +36,27 @@
   <!-- Backend & Cloud -->
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
 ### 💻 Experiencia Destacada
 
-*    **LiveFree Emergency Response** *(08/2025 - 04/2026)*: Arquitectura de un sistema de comunicación en tiempo real utilizando C# y SignalR.
-*    **PIXIR S.A. de C.V.** *(05/2024 - 03/2025)*: Desarrollo de apps nativas en Android usando Kotlin (MVVM) y APIs RESTful.
-*    **Freelance** *(2024)*: Optimización de experiencia de usuario y desarrollo frontend.
+* **LiveFree Emergency Response** *(08/2025 - 04/2026)*: Arquitectura de un sistema de comunicación en tiempo real utilizando C# y SignalR.
+* **PIXIR S.A. de C.V.** *(05/2024 - 03/2025)*: Desarrollo de aplicaciones nativas en Android usando Kotlin bajo arquitectura MVVM.
 
 ---
 
 ### 🔥 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandonFnts&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonFnts&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonFnts&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github.com/BrandonFnts/BrandonFnts/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
 ---
+
 <div align="center">
   <i>"Comprometido con escribir Clean Code y diseñar arquitecturas mantenibles."</i>
 </div>
